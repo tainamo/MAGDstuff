@@ -16,7 +16,6 @@ A tulip being swarmed by bugs
 
 ## Lab 08
 Shows an OC of mine on a ~~DUNE~~ GUNE movie poster
-
 [Link](https://github.com/tainamo/MAGDstuff/blob/gh-pages/s24magd150_lab08_Winner/sketch.js)
 
 ## Lab 09
