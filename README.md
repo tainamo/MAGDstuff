@@ -19,5 +19,5 @@ Shows an OC of mine on a ~~DUNE~~ GUNE movie poster
 [Link](https://github.com/tainamo/MAGDstuff/blob/gh-pages/s24magd150_lab08_Winner/sketch.js)
 
 ## Lab 09
-Video captures from your camera, with a fun filter, because you look stunning today! SFX: MetalPipe.wav
+Video captures from your camera, with a fun filter, because you look stunning today! Contains SFX
 [Link](https://github.com/tainamo/MAGDstuff/blob/gh-pages/s24magd150lab09_Winner_2024_04_04_14_16_21/sketch.js)
